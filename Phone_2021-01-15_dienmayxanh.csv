@@ -1,0 +1,175 @@
+Brand,Screen,OS,Main_Camera,Front_Camera,CPU,RAM,Storage,Battery,Price,Class
+oppo,6.43,Android 11,64.0,44.0,Snapdragon,8.0,128.0,4310,8690000,3
+oppo,6.5,Android 10,48.0,16.0,Snapdragon,8.0,128.0,5000,6490000,3
+iphone,5.4,iOS 14,2.0,12.0,Apple,4.0,64.0,2227,21990000,5
+xiaomi,6.67,Android 10,108.0,20.0,Snapdragon,8.0,256.0,5000,12990000,4
+samsung,6.5,Android 10,48.0,8.0,MediaTek,6.0,128.0,5000,4690000,2
+samsung,6.7,Android 10,64.0,32.0,Snapdragon,8.0,128.0,7000,9490000,3
+realme,6.5,Android 10,13.0,8.0,Snapdragon,4.0,64.0,6000,4190000,2
+vivo,6.58,Android 11,48.0,16.0,Snapdragon,8.0,128.0,5000,6290000,3
+samsung,7.59,Android 10,3.0,10.0,Snapdragon,12.0,256.0,4500,50000000,5
+samsung,7.59,Android 10,3.0,10.0,Snapdragon,12.0,256.0,4500,50000000,5
+iphone,6.1,iOS 14,3.0,12.0,Apple,6.0,512.0,2815,39990000,5
+samsung,6.7,Android 10,2.0,10.0,Snapdragon,8.0,256.0,3300,36000000,5
+iphone,6.1,iOS 14,3.0,12.0,Apple,6.0,256.0,2815,34990000,5
+samsung,6.9,Android 10,108.0,10.0,Exynos,12.0,256.0,4500,32990000,5
+samsung,6.9,Android 10,108.0,10.0,Exynos,12.0,256.0,4500,32990000,5
+samsung,6.9,Android 10,108.0,10.0,Exynos,8.0,256.0,4500,29990000,5
+iphone,6.1,iOS 14,2.0,12.0,Apple,4.0,256.0,2815,28490000,5
+iphone,6.1,iOS 14,2.0,12.0,Apple,4.0,128.0,2815,26990000,5
+iphone,5.4,iOS 14,2.0,12.0,Apple,4.0,256.0,2227,25490000,5
+iphone,6.1,iOS 14,2.0,12.0,Apple,4.0,64.0,2815,24990000,5
+samsung,6.7,Android 10,12.0,10.0,Exynos,8.0,128.0,4500,23990000,5
+iphone,5.4,iOS 14,2.0,12.0,Apple,4.0,128.0,2227,23990000,5
+samsung,6.7,Android 10,12.0,10.0,Exynos,8.0,128.0,4500,23990000,5
+oppo,6.78,Android 10,48.0,32.0,Snapdragon,12.0,256.0,4200,23990000,5
+samsung,6.7,Android 10,12.0,10.0,Exynos,8.0,256.0,4300,23990000,5
+oneplus,6.78,Android 10,48.0,16.0,Snapdragon,12.0,256.0,4510,23990000,5
+iphone,6.1,iOS 14,2.0,12.0,Apple,4.0,256.0,3110,22990000,5
+iphone,6.1,iOS 14,2.0,12.0,Apple,4.0,128.0,3110,21990000,5
+samsung,6.2,Android 10,12.0,10.0,Exynos,8.0,128.0,4000,21490000,5
+vivo,6.56,Android 10,48.0,32.0,Snapdragon,8.0,256.0,4315,19990000,5
+iphone,6.1,iOS 14,2.0,12.0,Apple,4.0,64.0,3110,19990000,5
+oneplus,6.55,Android 11,48.0,16.0,Snapdragon,12.0,256.0,4500,18990000,5
+samsung,6.8,Android 9 ,12.0,10.0,Exynos,12.0,256.0,4300,17990000,4
+iphone,4.7,iOS 14,12.0,7.0,Apple,3.0,256.0,1821,16990000,4
+iphone,4.7,iOS 14,12.0,7.0,Apple,3.0,256.0,1821,16990000,4
+samsung,6.7,Android 10,48.0,32.0,Snapdragon,8.0,128.0,4500,14990000,4
+oppo,6.4,Android 10,64.0,44.0,MediaTek,8.0,256.0,4025,14290000,4
+oneplus,6.44,Android 10,48.0,32.0,Snapdragon,12.0,256.0,4115,13990000,4
+iphone,6.1,iOS 12,12.0,7.0,Apple,3.0,64.0,2942,13490000,4
+iphone,4.7,iOS 14,12.0,7.0,Apple,3.0,128.0,1821,12990000,4
+nokia,6.81,Android 10,64.0,24.0,Snapdragon,8.0,128.0,4500,12990000,4
+iphone,4.7,iOS 14,12.0,7.0,Apple,3.0,128.0,1821,12990000,4
+iphone,4.7,iOS 14,12.0,7.0,Apple,3.0,64.0,1821,11990000,4
+iphone,4.7,iOS 14,12.0,7.0,Apple,3.0,64.0,1821,11990000,4
+oppo,6.5,Android 10,48.0,32.0,Snapdragon,8.0,256.0,4000,11990000,4
+samsung,6.7,Android 10,3.0,32.0,Exynos,8.0,128.0,4500,11490000,4
+samsung,6.7,Android 10,64.0,32.0,Snapdragon,8.0,128.0,4500,10490000,4
+vsmart,6.39,Android 10,64.0,20.0,Snapdragon,8.0,128.0,4000,9990000,3
+samsung,6.7,Android 9 ,32.0,32.0,Snapdragon,6.0,128.0,4500,9290000,3
+realme,6.4,Android 10,64.0,32.0,Snapdragon,8.0,128.0,4500,8990000,3
+vivo,6.44,Android 10,48.0,32.0,Snapdragon,8.0,128.0,4500,8990000,3
+vivo,6.44,Android 11,64.0,44.0,Snapdragon,8.0,128.0,4000,8490000,3
+oppo,6.4,Android 10,48.0,32.0,Snapdragon,8.0,128.0,4015,8490000,3
+samsung,6.5,Android 10,48.0,32.0,Exynos,8.0,128.0,4000,8390000,3
+realme,6.6,Android 10,64.0,16.0,Snapdragon,8.0,128.0,4300,7990000,3
+samsung,6.5,Android 10,48.0,32.0,Exynos,6.0,128.0,4000,7990000,3
+oneplus,6.49,Android 10,64.0,16.0,Snapdragon,6.0,128.0,4300,7990000,3
+vivo,6.44,Android 10,48.0,32.0,Snapdragon,8.0,128.0,4500,7690000,3
+vsmart,6.39,Android 10,64.0,20.0,Snapdragon,6.0,64.0,4000,7490000,3
+oppo,6.43,Android 10,48.0,16.0,MediaTek,8.0,128.0,4000,7490000,3
+vsmart,6.39,Android 10,64.0,20.0,Snapdragon,8.0,128.0,4000,7490000,3
+vivo,6.44,Android 10,48.0,32.0,Snapdragon,8.0,128.0,4100,7190000,3
+xiaomi,6.67,Android 10,64.0,20.0,Snapdragon,6.0,128.0,5160,6990000,3
+oppo,6.4,Android 10,48.0,44.0,MediaTek,8.0,128.0,4025,6990000,3
+samsung,6.4,Android 9 ,48.0,32.0,Exynos,4.0,64.0,4000,6990000,3
+xiaomi,6.67,Android 10,64.0,16.0,Snapdragon,6.0,128.0,5020,6990000,3
+huawei,6.4,EMUI 10 ,48.0,16.0,Kirin,8.0,128.0,4200,6990000,3
+realme,6.5,Android 10,64.0,16.0,MediaTek,8.0,128.0,5000,6990000,3
+xiaomi,6.67,Android 10,64.0,16.0,Snapdragon,6.0,64.0,5020,6490000,3
+samsung,6.4,Android 10,48.0,20.0,MediaTek,6.0,128.0,5000,6490000,3
+vivo,6.53,Android 10,13.0,16.0,Snapdragon,8.0,128.0,5000,6290000,3
+realme,6.5,Android 10,64.0,16.0,Snapdragon,8.0,128.0,5000,6290000,3
+xiaomi,6.53,Android 9 ,64.0,20.0,MediaTek,6.0,128.0,4500,5990000,2
+xiaomi,6.67,Android 10,48.0,16.0,Snapdragon,6.0,128.0,5020,5990000,2
+realme,6.5,Android 10,64.0,16.0,MediaTek,4.0,128.0,4300,5990000,2
+samsung,6.5,Android 10,48.0,13.0,Exynos,6.0,64.0,5000,5690000,2
+samsung,6.5,Android 9 ,13.0,8.0,Snapdragon,4.0,64.0,4000,5390000,2
+xiaomi,6.53,Android 10,48.0,8.0,Snapdragon,6.0,128.0,6000,5290000,2
+realme,6.5,Android 10,13.0,8.0,Snapdragon,6.0,128.0,5000,5290000,2
+oppo,6.5,Android 9 ,12.0,8.0,MediaTek,6.0,128.0,4230,5290000,2
+xiaomi,6.3,Android 9 ,48.0,13.0,Snapdragon,4.0,128.0,4000,4990000,2
+vivo,6.51,Android 10,13.0,8.0,Snapdragon,6.0,128.0,5000,4990000,2
+realme,6.5,Android 10,48.0,16.0,MediaTek,4.0,128.0,5000,4990000,2
+xiaomi,6.53,Android 10,48.0,13.0,MediaTek,4.0,128.0,5020,4990000,2
+nokia,6.39,Android 10,48.0,16.0,Snapdragon,4.0,128.0,4000,4990000,2
+vsmart,6.5,Android 10,48.0,13.0,Snapdragon,6.0,64.0,5000,4790000,2
+samsung,6.5,Android 10,48.0,13.0,Exynos,3.0,32.0,5000,4690000,2
+oppo,6.5,Android 9 ,12.0,8.0,MediaTek,4.0,128.0,4230,4490000,2
+oppo,6.5,Android 10,13.0,16.0,Snapdragon,4.0,128.0,5000,4490000,2
+xiaomi,6.3,Android 9 ,48.0,13.0,Snapdragon,4.0,64.0,4000,4490000,2
+vivo,6.47,Android 10,13.0,8.0,MediaTek,4.0,128.0,5000,4490000,2
+vsmart,6.5,Android 10,48.0,13.0,Snapdragon,4.0,64.0,5000,4390000,2
+vivo,6.51,Android 10,13.0,8.0,MediaTek,4.0,128.0,5000,4290000,2
+samsung,6.5,Android 10,48.0,8.0,MediaTek,4.0,128.0,5000,4290000,2
+vivo,6.51,Android 10,13.0,8.0,Snapdragon,4.0,64.0,5000,3990000,2
+xiaomi,6.53,Android 10,13.0,8.0,MediaTek,4.0,64.0,5020,3990000,2
+vsmart,6.53,Android 10,16.0,13.0,Snapdragon,6.0,64.0,5000,3990000,2
+vsmart,6.39,Android 9 ,48.0,16.0,MediaTek,6.0,64.0,4020,3990000,2
+xiaomi,6.3,Android 9 ,48.0,13.0,Snapdragon,3.0,32.0,4000,3990000,2
+vivo,6.35,Android 9 ,13.0,8.0,Snapdragon,4.0,64.0,5000,3790000,2
+realme,6.52,Android 9 ,12.0,8.0,Snapdragon,4.0,64.0,5000,3690000,2
+samsung,6.4,Android 10,13.0,8.0,Snapdragon,3.0,32.0,4000,3690000,2
+nokia,6.39,Android 10 ,13.0,8.0,Snapdragon,4.0,64.0,4000,3690000,2
+realme,6.5,Android 10,12.0,5.0,MediaTek,3.0,64.0,5000,3590000,2
+xiaomi,6.53,Android 10,13.0,8.0,MediaTek,3.0,32.0,5020,3590000,2
+huawei,6.3,EMUI 10 ,13.0,8.0,MediaTek,4.0,64.0,5000,3490000,2
+realme,6.52,Android 10,13.0,5.0,MediaTek,3.0,32.0,6000,3490000,2
+oppo,6.52,Android 10,13.0,8.0,MediaTek,3.0,32.0,4230,3490000,2
+vivo,6.51,Android 10,13.0,8.0,MediaTek,3.0,32.0,5000,3290000,2
+vsmart,6.5,Android 9 ,13.0,8.0,Snapdragon,4.0,64.0,5000,3290000,2
+vsmart,6.53,Android 10,16.0,13.0,Snapdragon,3.0,64.0,5000,3290000,2
+samsung,6.5,Android 10,13.0,5.0,Snapdragon,3.0,32.0,5000,3190000,2
+realme,6.5,Android 10,12.0,5.0,MediaTek,3.0,32.0,5000,2990000,2
+xiaomi,6.53,Android 10,13.0,5.0,MediaTek,3.0,64.0,5000,2990000,2
+oppo,6.22,Android 9 ,13.0,5.0,MediaTek,3.0,32.0,4230,2990000,2
+vivo,6.35,Android 9 ,13.0,8.0,Snapdragon,3.0,32.0,5000,2990000,2
+samsung,5.7,Android 10,13.0,5.0,Snapdragon,2.0,16.0,3000,2790000,2
+vsmart,6.5,Android 9 ,13.0,8.0,Snapdragon,3.0,32.0,5000,2690000,2
+vivo,6.22,Android 10,13.0,5.0,MediaTek,2.0,32.0,4030,2690000,2
+realme,6.5,Android 10,13.0,5.0,MediaTek,2.0,32.0,5000,2690000,2
+nokia,6.5,Android 10,13.0,5.0,MediaTek,2.0,32.0,4500,2690000,2
+xiaomi,6.53,Android 10,13.0,5.0,MediaTek,2.0,32.0,5000,2490000,2
+vsmart,6.09,Android 10,8.0,8.0,MediaTek,3.0,32.0,3500,2490000,2
+vsmart,6.09,Android 10,8.0,8.0,MediaTek,2.0,32.0,3500,2290000,2
+vsmart,6.09,Android 10,8.0,8.0,MediaTek,2.0,16.0,3500,2050000,2
+itel,6.1,Android 9 ,8.0,16.0,CPU,2.0,32.0,3000,1990000,2
+xiaomi,6.53,Android 10,13.0,5.0,MediaTek,2.0,32.0,5000,1990000,2
+nokia,2.8,KaiOS,2.0,,Snapdragon,,4.0,1500,1790000,2
+nokia,5.7,,5.0,5.0,Spreadtrum,1.0,16.0,2800,1690000,2
+vsmart,6.0,Android 9 ,8.0,5.0,MediaTek,2.0,16.0,3000,1590000,2
+nokia,2.4,KaiOS,,,Snapdragon,,4.0,1500,1290000,2
+nokia,2.8,,2.0,2.0,,,,1200,1250000,2
+masstel,5.0,Android 9 ,5.0,5.0,MediaTek,2.0,16.0,2000,1190000,2
+nokia,2.4,,,,,,,1200,1000000,1
+masstel,5.45,Android 8 ,8.0,5.0,Spreadtrum,1.0,8.0,3200,990000,1
+mobell,5.5,Android 8 ,5.0,2.0,MediaTek,1.0,8.0,3500,990000,1
+itel,5.0,Android 8 ,5.0,2.0,Spreadtrum,1.0,8.0,2050,990000,1
+energizer,2.4,KaiOS,,,,,4.0,1900,890000,1
+nokia,2.4,,,,,,,1020,790000,1
+itel,2.4,KaiOS,0.3,,Spreadtrum,,4.0,1900,790000,1
+nokia,2.4,,,,,,,1150,750000,1
+nokia,2.4,,,,,,,1020,660000,1
+energizer,2.4,,0.3,,,,,1000,650000,1
+energizer,2.8,,0.3,,,,,4000,590000,1
+mobell,2.4,,0.08,,,,,5000,590000,1
+masstel,2.2,,0.08,,,,,1400,550000,1
+masstel,2.4,,0.08,,,,,3000,500000,1
+energizer,2.4,,0.3,,,,,1500,490000,1
+nokia,1.77,,,,,,,800,480000,1
+mobell,2.8,,,,,,,1800,450000,1
+mobell,2.4,,,,,,,1000,450000,1
+itel,2.4,,0.3,,,,,1200,400000,1
+masstel,2.4,,0.08,,,,,2500,400000,1
+mobell,2.4,,,,,,,1200,390000,1
+itel,2.2,,0.3,,,,,1900,390000,1
+nokia,1.77,,,,,,,800,370000,1
+itel,2.4,,,,,,,3000,360000,1
+nokia,1.77,,,,,,,800,360000,1
+masstel,2.4,,0.08,,,,,1700,350000,1
+itel,2.4,,0.08,,,,,1900,350000,1
+mobell,2.4,,,,,,,1000,290000,1
+masstel,2.4,,0.08,,,,,1450,290000,1
+itel,2.4,,0.3,,,,,1200,280000,1
+energizer,1.8,,,,,,,1000,270000,1
+itel,2.4,,0.3,,,,,1200,260000,1
+masstel,2.4,,0.08,,,,,1000,250000,1
+itel,1.77,,0.3,,,,,1000,210000,1
+masstel,1.77,,,,,,,800,200000,1
+masstel,1.77,,,,,,,800,200000,1
+mobell,1.77,,0.8,,,,,800,200000,1
+mobell,1.77,,0.8,,,,,800,190000,1
+masstel,1.77,,,,,,,800,190000,1
+itel,1.77,,,,,,,1000,170000,1
+mobell,1.77,,,,,,,800,160000,1
